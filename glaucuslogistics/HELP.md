@@ -25,5 +25,3 @@ Please update below properties based on your configurations in {application.prop
 ######spring.datasource.url=jdbc:mysql://localhost:3306/testing
 ######spring.datasource.username=root
 ######spring.datasource.password=Akshat@21
-
-Also, use attached jmeter
